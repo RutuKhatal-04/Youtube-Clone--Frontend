@@ -4,7 +4,7 @@ This project is a clone of the YouTube frontend, built using HTML, CSS, and Java
 
 ## Demo
 
-You can view the live demo of the project ( https://rutukhatal-04.github.io/Youtune-Clone--Frontend/).
+You can view the live demo of the project ( https://rutukhatal-04.github.io/Youtube-Clone--Frontend/).
 
 ## Features
 
